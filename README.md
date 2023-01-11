@@ -1,6 +1,4 @@
-# flutter_light_dark_theme
-
-A new Flutter project.
+# Flutter Persistent Light/Dark Theme
 
 ## Getting Started
 
